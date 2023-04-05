@@ -1,0 +1,10 @@
+const path = require('path')
+const get_directory_name=path.dirname('D:/Anshul/BitBucket/nodejs/src/pathModule/path.js')
+console.log(get_directory_name)
+const get_extension_name=path.extname('D:/Anshul/BitBucket/nodejs/src/pathModule/path.js')
+console.log(get_extension_name)
+const get_base_name=path.basename('D:/Anshul/BitBucket/nodejs/src/pathModule/path.js')
+console.log(get_base_name)
+const get_parse_name=path.parse('D:/Anshul/BitBucket/nodejs/src/pathModule/path.js')
+console.log(get_parse_name) //parsde returns an object having all the details of path & file
+console.log(get_parse_name.name)

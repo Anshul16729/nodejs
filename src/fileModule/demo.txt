@@ -1,1 +1,0 @@
-This is a demo file written in nodejs by fs moduleThis is a demo file written in nodejs by fs module & we are adding additional data in this with append module
