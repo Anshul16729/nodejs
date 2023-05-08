@@ -1,1 +1,0 @@
-This is a demo file written in nodejs by fs module
